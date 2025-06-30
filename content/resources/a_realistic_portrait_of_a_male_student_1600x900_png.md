@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/ibrahim-delete-course/1w4OupS5KePIAlONuHBl5T32g2tnziEIG/md7.mp4
-file_size: 1055736
-file_type: video/mp4
+file: /courses/ibrahim-delete-course/a_realistic_portrait_of_a_male_student_1600x900.png
+file_size: 805430
+file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Video
-title: md7.mp4
-uid: 9bc67a46-65ec-4ae6-bff1-30e4a865c33e
+resourcetype: Image
+title: A_realistic_portrait_of_a_male_student_1600x900.png
+uid: a41e9ce9-e376-4c57-abb0-217b733b8a11
 video_files:
   archive_url: ''
   video_captions_file: ''
